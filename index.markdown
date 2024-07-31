@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: home
 title: bucareli.blog
 permalink : /
 ---
 
-> {{ site.description }}
+
 
 
