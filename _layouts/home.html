@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 
@@ -7,8 +7,10 @@ layout: default
 <!-- <div style="margin: 4rem 0rem; background-color: #FFDE59">
   <img src="/assets/images/bucareli-logo.png" style="width: 100px; height: 100px; text-align: center; display: block; margin: 0 auto;"> -->
 
-  <p id="site-tagline">
-    {{ site.description }}
-  </p>
+    <p id="site-tagline">{{ site.description }}</p> <br>
+
+    <h2 style="display: block;">Latest Posts</h2>
+
+    {% include blog_feed.html %}
   
 </div>

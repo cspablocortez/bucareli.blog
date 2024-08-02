@@ -5,5 +5,6 @@ permalink : /
 ---
 
 
+**Latest Posts**:
 
-
+{% include blog_feed.html %}

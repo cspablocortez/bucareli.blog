@@ -2,7 +2,7 @@
 title: Jekyll Reminders
 date: 2024-07-30
 layout: post
-published: true
+published: false
 permalink: /reminders
 ---
 
