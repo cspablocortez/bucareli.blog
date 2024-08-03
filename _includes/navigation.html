@@ -2,7 +2,7 @@
     <h1><a href="/" style="color: var(--text-color); text-decoration: none;">{{ site.title }}</a></h1>
     <p>
         {% for item in site.data.navigation %}
-        <a href="{{ item.url }}">
+        <a class="nav-item" href="{{ item.url }}">
         {{ item.name }}
         </a>
         {% endfor %}

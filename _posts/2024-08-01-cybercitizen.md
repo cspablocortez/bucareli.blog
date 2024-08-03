@@ -2,7 +2,7 @@
 title: What is a cybercitizen?
 date: 2024-08-01
 layout: post
-published: false
+published: true
 author: Pablo E. Cortez
 permalink: /cybercitizen
 ---
@@ -16,5 +16,10 @@ What does it mean to be a cybercitizen? Can I opt out of existing digitally? How
 <p style="text-align: center;">
   &mdash;&mdash;&mdash;
 </p>
+
+I use the terms “cyberspace” and “cybercitizen” following the definitions in philosopher Pierre Lévy’s 1997 book *Cyberculture*. There, Lévy defines cyberspace as “the medium of communications that arose through the global interconnection of computers” (p. 16). A cybercitizen is a participant of this communication medium. Because there is a distinction between the terms Internet, World Wide Web, Gopher, Gemini, and any future communication protocols that may exist, the term cyberspace allows for a technology-agnostic discussion on information exchange facilitated by computer communication protocols. For example, if the metaverse becomes the de facto communication protocol in a few decades, the ideas discussed in this entry will remain applicable. 
+
+A person becomes a cybercitizen when there is an exchange of personal data for usage of some digital service. Regardless of the frequency of this transaction, once it has been carried out at least once, the cybercitizen may not readily renounce their place in cyberspace. More concretely, once the discrete exchange of personally identifying information such as phone number, home address, or credit card has been given up in exchange for access to a service, a person becomes one more node in the vast repository of information travelling through the digital space. Because I assume my reader will find themselves in this category, in the following sections I offer some thoughts on cyberconstituency, or the relationship that a person has to cyberspace. 
+
 
 

@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Bucareli is a blog about cyberspace created by
-[Pablo E. Cortez](https://github.com/cspablocortez/).
+Bucareli is a blog about cyberspace.
 
 The name is taken from Bucareli Avenue in Mexico City, 
 inspired by its fictional analogue in Roberto Bolaño's 
@@ -55,7 +54,7 @@ easier than ever to access information on the web, we've
 expanded its reach to devices and technologies of all kinds, 
 from watches to cars to computers to the device you are 
 using to read these words. Yet somehow we drove 
-outselves into a corner, where most of the information we 
+ourselves into a corner, where most of the information we 
 read online is accessed not through a World Wide Web of 
 individual websites, but rather through monolithic software 
 products created by large corporations. 
