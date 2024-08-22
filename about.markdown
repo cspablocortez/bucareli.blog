@@ -22,7 +22,9 @@ based on principles such as:
 - Longevity
 - Pluarlity
 
-Texts and source code are licensed under [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) and available <a href="https://github.com/cspablocortez/bucareli.blog">here</a>.
+Texts and source code are licensed under 
+[GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) 
+and available <a href="https://github.com/cspablocortez/bucareli.blog">here</a>.
 
 <p style="text-align: center;">
   &mdash;&mdash;&mdash;
@@ -38,14 +40,15 @@ acknowledgement of the ridiculousness of the prospect along
 with a slight disappointment because deep down we all know 
 it *would* be pretty cool to have a podcast.
 
-But instead of a podcast we were talking about blogs, like
-the ones of the early 2000s, when a blog was made by
-one person with an interest or a hobby. More creative outlet
-than commercial venture. A technical experiment in self-expression.
+But instead of a podcast we were talking about blogs, like 
+the ones of the early 2000s, when a blog was made by one 
+person with an interest or a hobby. More creative outlet 
+than commercial venture. A technical experiment in 
+self-expression.
 
 
-The [Wiby search 
-engine](https://wiby.org/?q=) describes the period like this:
+The [Wiby search engine](https://wiby.org/?q=) describes the 
+period like this:
 
 > In the early days of the web, pages were made primarily by hobbyists, academics, and computer savvy people about subjects they were personally interested in. 
 
@@ -58,18 +61,19 @@ stumbling upon unknown and exciting information shared on a
 website created by one or many strangers motivated by 
 curiosity about a new technology. 
 
-This is hard to do now because most of our time online revolves around 
-the same few apps, and the new websites we find through search engines
-are more concerned with advertising revenue than providing a good
-experience for visitors. That is why they ask you to accept cookies, 
-to disable your ad blocker, to accept notifications, or even to sign up 
-for an account before accessing the site.
+This is hard to do now because most of our time online 
+revolves around the same few apps, and the new websites we 
+find through search engines are more concerned with 
+advertising revenue than providing a good experience for 
+visitors. That is why they ask you to accept cookies, to 
+disable your ad blocker, to accept notifications, or even to 
+sign up for an account before accessing the site.
 
-But none of those things are necessary for making a website. I want
-support an open web that promotes free communication for all its 
-[cybercitizens](/cybercitizen). My small contribution to this goal
-is this blog. 
-This blog has no trackers, no analytics, and no JavaScript.
+But none of those things are necessary for making a website. 
+I want to support an open web that promotes free 
+communication for all its [cybercitizens](/cybercitizen). My 
+small contribution to this goal is this blog. This blog has 
+no trackers, no analytics, and no JavaScript.
 
 
 <p style="text-align: center;">
@@ -79,12 +83,12 @@ This blog has no trackers, no analytics, and no JavaScript.
 
 ## About the Author
 
-My name is Pablo E. Cortez, 
-and I'm a graduate student at Fordham University in New York City.
-My research focuses on human-computer interaction, namely the 
-particular and unique relationship people have to cyberspace. 
-A lot of my time is spent studying how people
-interact with each other (and with computers!) in digital environments.
+My name is Pablo E. Cortez, and I'm a graduate student at 
+Fordham University in New York City. My research focuses on 
+human-computer interaction, namely the particular and unique 
+relationship people have to cyberspace. A lot of my time is 
+spent studying how people interact with each other (and with 
+computers!) in digital environments.
 
 
 <p style="text-align: center;">
@@ -93,9 +97,11 @@ interact with each other (and with computers!) in digital environments.
 
 ## Contact
 
-If you'd like to contact me with questions, comments or suggestions,
-you are welcome to do so via <a href="mailto:cspablocortez@gmail.com">email</a>.
+If you'd like to contact me with questions, comments or 
+suggestions, you are welcome to do so via <a 
+href="mailto:cspablocortez@gmail.com">email</a>.
 
-If you'd like to subscribe to this blog, please do so via [RSS](/feed.xml).
+If you'd like to subscribe to this blog, please do so via 
+[RSS](/feed.xml).
 
 
